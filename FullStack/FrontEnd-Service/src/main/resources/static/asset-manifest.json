@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.684c025f.css",
+    "main.js": "/static/js/main.fcbd68a6.js",
+    "static/js/738.9ef899a7.chunk.js": "/static/js/738.9ef899a7.chunk.js",
+    "static/js/909.1282a1dc.chunk.js": "/static/js/909.1282a1dc.chunk.js",
+    "static/js/22.283f266e.chunk.js": "/static/js/22.283f266e.chunk.js",
+    "static/js/372.c78cb779.chunk.js": "/static/js/372.c78cb779.chunk.js",
+    "static/js/856.f7ec3728.chunk.js": "/static/js/856.f7ec3728.chunk.js",
+    "static/js/344.cfe6af21.chunk.js": "/static/js/344.cfe6af21.chunk.js",
+    "static/js/841.3b192031.chunk.js": "/static/js/841.3b192031.chunk.js",
+    "static/js/186.91689673.chunk.js": "/static/js/186.91689673.chunk.js",
+    "static/js/573.ce87f7ba.chunk.js": "/static/js/573.ce87f7ba.chunk.js",
+    "static/js/225.d27436a7.chunk.js": "/static/js/225.d27436a7.chunk.js",
+    "static/js/377.165be6f4.chunk.js": "/static/js/377.165be6f4.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.684c025f.css.map": "/static/css/main.684c025f.css.map",
+    "main.fcbd68a6.js.map": "/static/js/main.fcbd68a6.js.map",
+    "738.9ef899a7.chunk.js.map": "/static/js/738.9ef899a7.chunk.js.map",
+    "909.1282a1dc.chunk.js.map": "/static/js/909.1282a1dc.chunk.js.map",
+    "22.283f266e.chunk.js.map": "/static/js/22.283f266e.chunk.js.map",
+    "372.c78cb779.chunk.js.map": "/static/js/372.c78cb779.chunk.js.map",
+    "856.f7ec3728.chunk.js.map": "/static/js/856.f7ec3728.chunk.js.map",
+    "344.cfe6af21.chunk.js.map": "/static/js/344.cfe6af21.chunk.js.map",
+    "841.3b192031.chunk.js.map": "/static/js/841.3b192031.chunk.js.map",
+    "186.91689673.chunk.js.map": "/static/js/186.91689673.chunk.js.map",
+    "573.ce87f7ba.chunk.js.map": "/static/js/573.ce87f7ba.chunk.js.map",
+    "225.d27436a7.chunk.js.map": "/static/js/225.d27436a7.chunk.js.map",
+    "377.165be6f4.chunk.js.map": "/static/js/377.165be6f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.684c025f.css",
+    "static/js/main.fcbd68a6.js"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "curso1FullStack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
